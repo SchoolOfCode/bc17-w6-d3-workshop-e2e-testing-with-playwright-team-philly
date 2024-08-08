@@ -76,7 +76,7 @@ If you're not already running the Express app from earlier, start it up with `np
 
 - Why: Playwright by default won't start up your web application for you. So you need to ensure your application is running first before running your tests. If you run the tests without starting up the web application first, the tests won't be able to access the frontend and the tests would fail.
 
-Create a new, separate terminal and if needed, `cd` to the root of this project. This second terminal can be used for Playwright commands and running the tests.
+Create a new, separate terminal and if needed, `cd` to the root of this project. This second terminal can be used for Playwright commands and running the tests. ✅
 
 Within the existing test that you've started, use the [Playwright documentation](https://playwright.dev/docs/writing-tests#navigation) to programmatically navigate to the URL that the frontend is running on.
 

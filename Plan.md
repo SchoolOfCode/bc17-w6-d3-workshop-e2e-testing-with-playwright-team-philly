@@ -9,5 +9,6 @@
 - Run the app✅
 - Install Playwright (carefully! : )✅
 - Add an NPM script to run Playwright✅
-- Write a simple test
-- Try the test
+- Write a simple test✅
+- Try the test✅
+NOW WHAAAAAAATTTTTTTTTT??!!??!?!!?
